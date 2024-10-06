@@ -1,0 +1,18 @@
+{
+  "id": "findactortokenbyid",
+  "title": "FindActorTokenByID",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Chika"
+    }
+  ],
+  "description": "Allows users to find actors by id",
+  "scripts": [
+    "findtoken.js"
+  ]
+}
