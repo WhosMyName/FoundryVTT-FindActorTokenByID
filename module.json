@@ -1,7 +1,7 @@
 {
   "id": "findactortokenbyid",
   "title": "FindActorTokenByID",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -17,7 +17,7 @@
   ],
   "url": "https://github.com/WhosMyName/FoundryVTT-FindActorTokenByID",
   "manifest": "https://raw.githubusercontent.com/WhosMyName/FoundryVTT-FindActorTokenByID/refs/heads/main/module.json",
-  "download": "https://github.com/WhosMyName/FoundryVTT-FindActorTokenByID/archive/refs/tags/1.0.2.zip",
+  "download": "https://github.com/WhosMyName/FoundryVTT-FindActorTokenByID/archive/refs/tags/1.0.3.zip",
   "bugs": "https://github.com/WhosMyName/FoundryVTT-FindActorTokenByID/issues",
   "readme": "https://raw.githubusercontent.com/WhosMyName/FoundryVTT-FindActorTokenByID/refs/heads/main/README.md",
   "changelog": "https://github.com/WhosMyName/FoundryVTT-FindActorTokenByID/releases",
