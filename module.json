@@ -14,5 +14,12 @@
   "description": "Allows users to find actors by id",
   "scripts": [
     "findtoken.js"
-  ]
+  ],
+  "url": "https://github.com/WhosMyName/FoundryVTT-FindActorTokenByID",
+  "manifest": "https://raw.githubusercontent.com/WhosMyName/FoundryVTT-FindActorTokenByID/refs/heads/main/module.json",
+  "download": "https: //github.com/WhosMyName/FoundryVTT-FindActorTokenByID/archive/refs/tags/1.0.1.zip",
+  "bugs": "https://github.com/WhosMyName/FoundryVTT-FindActorTokenByID/issues",
+  "readme": "https://raw.githubusercontent.com/WhosMyName/FoundryVTT-FindActorTokenByID/refs/heads/main/README.md",
+  "changelog": "https://github.com/WhosMyName/FoundryVTT-FindActorTokenByID/releases",
+  "license": "https://raw.githubusercontent.com/WhosMyName/FoundryVTT-FindActorTokenByID/refs/heads/main/LICENSE"
 }
